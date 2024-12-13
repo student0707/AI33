@@ -56,5 +56,5 @@ st.image("https://img.khan.co.kr/news/2024/03/23/news-p.v1.20240323.c159a4cab6f6
 
 # 7. 유튜브 링크 (썸네일 표시)
 st.write("유튜브 동영상 예제")
-st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+st.video("https://www.youtube.com/watch?v=3P-kgB8WkXg")
 
